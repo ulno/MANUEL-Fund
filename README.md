@@ -169,6 +169,12 @@ Keinen Ansprechpartner/in ausgewählt
 
 Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Sie konkret durchführen möchten. Gehen Sie dabei auch kurz darauf ein, warum die im Finanzierungsplan genannten Ausgaben dafür erforderlich sind.
 
+Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokumentation im Repair Café. Ab der Version 7.0 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Dazu schaffen wir einen Mac Mini an, der aufgrund der Neural Engine Cores kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann. Als Laufzeitumgebung für das LLM kommt Ollama zum Einsatz. Mit 32GB Unified Memory können wir ausreichend große Modelle betreiben.
+
+Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Hintergründe. Zum einen bleiben alle Anfragedaten bei uns und zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden.
+
+Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
 Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möchten Sie damit aufgreifen?  

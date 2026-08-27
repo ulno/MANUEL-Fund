@@ -221,7 +221,11 @@ Als Anschlussprojekt testen sie den prototypischen Einsatz von OpenClaw, Hermes 
 - [ ] Menschen mit Behinderung
 - [ ] Bildungsbenachteiligte
 - [ ] Erwerbslose
-- [ ] Sonstige
+- [x] Sonstige
+
+#### Bitte machen Sie Angaben zur Personengruppe
+
+Neue Engagierte und Gäste der monatlichen Repair Cafés mit wenigen Vorkenntnissen
 
 ### 5.6 Richtet sich Ihr Projekt vorrangig an Personen, die sich bisher noch nicht engagieren?
 

@@ -1,255 +1,257 @@
-# [Eigenes Projekt zur Förderung einreichen](https://www.datev-stiftung.de/antragstellung/#projekt)
+# [Mikroförderprogramm - Ehrenamt gewinnen. Engagement binden. Zivilgesellschaft stärken.](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/mikrofoerderprogramm/)
 
-Stell' uns Dein Projekt jetzt ganz bequem über das untenstehende Online-Formular vor.
-Wir freuen uns auf Deine Impulse und Visionen.
+## 1 Basisdaten
 
-### 1 Kontaktaufnahme
+### Basisinformationen
 
-Nutze die Möglichkeit und sprich mit uns: Stelle Dein Vorhaben im Rahmen einer kurzen Präsentation dem Team der DATEV-Stiftung Zukunft vor.
+#### Version des Formulars
+Mikroförderprogramm: Ehrenamt gewinnen. Engagement binden. Zivilgesellschaft stärken. - Runde 2026 - Version 7
 
-### 2 Antrag absenden
+#### Gültig
+ab 19.01.2026
 
-Reiche Dein Vorhaben bequem über unser Antragsformular ein. Beachte dabei, dass alle notwendigen Unterlagen bei Antragseinreichung übermittelt werden.
+#### Dokumente zur Antragstellung
+- [Allg._Nebenbestimmungen_Projektfoerderung_ANBest-P_2025.pdf (PDF, 140,31 KB)](./DSEE/nebenbestimmungen_anbest_p_2025.pdf)
+- [DSEE_Förderaufruf_Mikroförderprogramm_2026.pdf (PDF, 296,79 KB)](./DSEE/dsee_forderaufruf_mikroforderprogramm_2026.pdf)
+- [240605_DSEE_Foederlogo.zip (20.432,07 KB)](./DSEE/240605_dsee_foederlogo.zip)
 
-### 3 Antragsprüfung
+### 1.1 Antragsdatum
 
-Bis 31.07. werden die eingereichten Anträge konsolidiert und anschließend in verschiedenen Gremien vorab bewertet.
+Das Datum wird beim ersten Einreichen des Antrags automatisch gesetzt.
 
-### 4 Entscheidung
+### 1.2 Bitte geben Sie hier den Hauptdurchführungsort Ihres Projektes an.
 
-In einer gemeinsamen Sitzung im Oktober entscheiden Kuratorium und Vorstand über die Förderung der eingereichten Anträge.
+Es sind nur Projekte förderfähig, die in ländlichen oder strukturschwachen Gebieten wirken. Hier können Sie vorab prüfen, ob der Durchführungsort Ihres Projektes ländlich oder strukturschwach ist: https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/plz-suche/
 
-## Antrag ausfüllen
+| Postleitzahl & Ort |
+| ------------------ |
+| 33330 Gütersloh    |
 
-### Vorbereitung
-
-Wir freuen uns über Dein Interesse und Deine Bereitschaft, gemeinsam mit uns gesellschaftliche Veränderungen zu gestalten.
-
-Bitte lies vor der Einreichung Deines Antrags unsere FAQs, die Dir nützliche Informationen und Hinweise zur Antragstellung bieten.
-
-In vier übersichtlichen Schritten leiten wir Dich durch den Prozess der Antragstellung:
-
-- Persönliche Angaben des Antragstellers
-- Deine Überschneidung mit unseren Förderbereichen
-- Detaillierte Informationen zu Deinem Projekt
-- Benötigter Finanzbedarf
-
-Halte zudem Deinen Freistellungsbescheid bereit, um Deinen Antragsprozess zu beschleunigen.
-
-Solltest Du während der Antragstellung Fragen haben oder weitere Informationen benötigen, zögere nicht, uns unter info@datev-stiftung.de zu kontaktieren. Wir sind hier, um Dich zu unterstützen und alle Deine Fragen zu klären.
-
-Dein Team der DATEV-Stiftung Zukunft
-
-### Persönliche Angaben
-
-Bitte gib Deine Kontaktdaten an, damit wir Dich ggf. kontaktieren können.
-
-#### Institution inkl. Rechtsform des Antragstellers
-
-Makerspace Gütersloh e.V.
-
-#### Telefonnummer
-
-05241-2249910
-
-#### Straße und Hausnummer
-
-Bogenstraße 1-8
-
-#### E-Mail-Adresse
-
-post@makerspace-gt.de
-
-#### PLZ
-
-33330
-
-#### Ort
-
-Gütersloh
-
-#### Website
-
-https://makerspace-gt.de
-
-#### Land
-
-Deutschland
-
-#### Name des Ansprechpartners
-
-Michael Prange
-
-#### Füge hier Deinen Freistellungsbescheid gemäß 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes an (.pdf/.jpg/.png, max. 50MB gesamt)
-
-- [2026-05-22_FA-GT_Freistellungsbescheid_KSt_22-24.pdf](./2026-05-22_FA-GT_Freistellungsbescheid_KSt_22-24.pdf)
-
-### Förderbereiche
-
-Bitte ordne Dein Projekt unseren Förderbereichen zu.
-
-#### In welchem Förderbereich der DATEV-Stiftung Zukunft findest Du Dein Projekt/Deine Organisation wieder? (Mehrfachauswahl möglich)
-
-- [x] IT-Sicherheit und Datenschutz  
-   Datenschutz und IT-Sicherheit sind in unserer digitalisierten Welt unumgänglich.
-   
-   Unter diesen Förderbereich fallen unter anderem folgende Themenschwerpunkte:
-  - Funktionsweise datenbasierter Geschäftsmodelle
-  - Bewusste Entscheidungsfindung über Verwendung personenbezogener Daten/Klärung der digitalen Souveränität
-  - Selbstbestimmung im digitalen Raum
-  - Frage nach digitaler Identität
-  - Datenschutz im (inter-)nationalen Kontext
-- [x] Anforderungen an eine digitale Berufs- und Arbeitswelt  
-  Mit der Digitalisierung bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeitnehmern beherrscht werden müssen.
-  
-  Diese sind unter anderem:
-  - Durchführung von automatisierten Dienstanalysen
-  - Umgang mit künstlicher Intelligenz
-  - Verantwortungsbewusster Umgang mit digitalen Medien/Ressourcen
-  - Bereitschaft für lebenslanges Lernen
-  - Kreative, interdisziplinäre Lösungsfindung
-- [x] Digitale Vernetzung und Formen der Zusammenarbeit  
-  Im Fokus stehen Wissens- und Ideentransfer sowie der Erfahrungsaustausch zwischen Staat, Kultur, Wissenschaft und Wirtschaft. Voraussetzung hierfür ist eine allumgreifende Vernetzung.
-  
-  Das erreichen wir unter anderem durch Unterstützung folgender Punkte:
-  - Durchführung von Kongressen, Symposien und Diskussionsforen im Rahmen unserer Stiftungszwecke
-  - Austausch von Schulen mit Partnern aus Wirtschaft und Wissenschaft
-  - Schaffung digitaler Plattform-Ökonomien
-  - Bereichsübergreifende Vernetzung und Zusammenarbeit
-
-### Infos zum Projekt
-
-Erzähle uns von Deinem Projekt oder Deiner Idee.
-
-#### Wie heißt Dein Projekt?
+### 1.3 Bitte geben Sie einen Titel für Ihr Projekt an.
 
 MANUEL
 
-#### Kurzbeschreibung Deines Projekts
+### 1.4 In welchem Zeitraum soll das Projekt durchgeführt werden?
 
-Bitte gehe explizit auf folgende Fragen ein:
+Datum von Beginn und Ende des Zeitraums
 
-##### 1. Welches Problem soll das Projekt lösen? Welche Zielsetzung verfolgst Du?
+#### Beginn:
+22.09.2026
 
-Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
+##### Ende:
+31.12.2026
 
-Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen. Bei den 20 Terminen in den letzten 12 Monaten wurden insgesamt 404 Gegenstände angemeldet, sodass wir im Schnitt 18 bis 32 Reparaturen am Tag durchgeführt haben.
+### 1.5 Welchem Bereich lässt sich ihr Projekt am besten zuordnen?
 
-Gästen und neuen Engagierten fällt es schwer, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden.
-Mit dem Projekt »MANUEL« möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.  
-MANUEL steht für:  
-Minimale  
-AI für  
-Nutzer-  
-Unterstützung auf  
-Einstiegs-  
-Level.
+- [ ] Engagierte gewinnen und beteiligen: neue Angebote für unterrepräsentierte Gruppen, gezielte Öffentlichkeitsarbeit u.a.
+- [ ] Engagierte binden und wertschätzen: Dankesfeste, Jubiläen und ähnliche Veranstaltungen, mediale Ehrungen u.a.
+- [x] Organisationen modernisieren und stärken: innovative Anschaffungen, Digitalisierungs- oder Weiterbildungsmaßnahmen u.a.
+- [ ] Prävention und Schutz: Erstellung von Schutzkonzepten, Schulungen zum Thema Gewalt- oder Diskriminierungsprävention u.a.
 
-MANUEL soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. Sie soll Lösungsansätze vorschlagen und Reparaturanleitungen im Wiki erstellen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken. Zudem kann sie die Ergebnisse statistisch aufbereiten, damit sie in die Datenbank der Open Repair Alliance einfließen können.
+#### 1.6 Hat Ihre Organisation bereits im letzten Jahr eine Mikroförderung der DSEE erhalten?
 
-Wenn sich MANUEL im Repair Café bewährt, wollen wir sie perspektivisch auch im Makerspace selbst einsetzen. Als offene Werkstatt sind wir keine geschlossene Gesellschaft, sondern ein Dritter Ort, der Mitgliedern, Gästen und interessierten Personen unentgeltlich zugänglich ist. Bei rund 40 Mitgliedern haben wir das Problem, dass nur wenige Personen über umfassendes Wissen zu unseren Möglichkeiten verfügen. Um diese Personen zu entlasten und Mitglieder, Gäste und interessierte Personen gezielt zueinander zu vermitteln, soll MANUEL aus Chats, Forum, E-Mail und Wiki die Mitglieder kennenlernen und Informationen über den Verein sammeln. So kann sie als Chatbot Auskunft über die Fragen »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit stärken wir den gesellschaftlichen Zusammenhalt, der für einen Dritten Ort wie unseren charakteristisch ist.
+- [ ] Ja
+- [x] Nein
 
-Und nicht zuletzt kann MANUEL generell als Spielwiese für diejenigen zugänglich sein, die ihre Kompetenzen mit souveräner KI aufbauen und erweitern wollen.
+## 2 Antragstellende Organisation
 
-##### 2. Wie erreichst Du Dein Ziel? Mit welchen Maßnahmen?
+### 2.1 Antragsteller:in
 
-Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation unserer Termine. Es hat sich als zentrale Plattform für die Kommunikation mit Dritten und zur Dokumentation von Reparaturergebnissen etabliert. Mit der Version 7.0, die im April 2026 erschienen ist, unterstützt Zammad nativ den Einsatz von KI. Dadurch wird die geplante Anbindung von MANUEL technisch jetzt sinnvoll umsetzbar.
+#### Antragsteller:in
+Makerspace Gütersloh  
+c/o WEBEREI
 
-Wir schaffen einen Mac Studio (M4 Max, 14-Core CPU, 32‑Core GPU, 16-Core Neural Engine, 36GB Unified Memory) an, der aufgrund seiner Neural Engine Cores kostengünstig ein Large Language Model lokal und datenschutzfreundlich betreiben kann. Als Laufzeitumgebung für das LLM und als Schnittstelle zu Zammad kommt die Open-Source-Software Ollama zum Einsatz. Mit 36GB Unified Memory können wir sowohl größere Modelle als auch mehrere kleinere Modelle parallel betreiben. So finden wir heraus, welches Modell mit welchem Prompt für diesen Einsatz am besten geeignet ist.
+#### Anschrift
+Bogenstraße1-8  
+33330Gütersloh
 
-Bereits vor der Anschaffung des Mac Studio werden wir MANUEL prototypisch auf einem älteren Computer testen. Dies lässt nur kleinere Modelle zu und wird aufgrund des höheren Stromverbrauchs auch nicht 24/7 laufen. Dennoch bietet es uns die Möglichkeit, uns mit der KI-Anbindung von Zammad vertraut zu machen. Wir lernen, wie wir ...
-- die Daten aus der Datenbank der Open Repair Alliance und aus unserem Wiki als Quelle einstellen.
-- Nachrichten in einem zu uns passenden Stil formulieren, die auch für Laien verständlich sind.
-- die Daten mit den richtigen Werten in die richtigen Felder schreiben, um sie anschließend in die Datenbank der Open Repair Alliance einzuspeisen.
+##### Bundesland
+Nordrhein-Westfalen
 
-Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Hintergründe.  
-Zum einen bleiben alle Anfragedaten bei uns. Das stärkt die digitale Souveränität und Selbstbestimmung im digitalen Raum sowohl unserer Engagierten als auch unserer Gäste. Wir engagieren uns zudem beim Digital Independence Day, der jeden ersten Sonntag im Monat dazu aufruft, sich von der Marktmacht weniger US-amerikanischer Tech-Konzerne unabhängig zu machen. Dazu würde es nicht passen, für MANUEL selbst auf deren Cloud-KI-Angebote zurückzugreifen.  
-Zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden. Der Mac Studio wird dagegen einmalig angeschafft und arbeitet danach mit geringen laufenden Nutzungskosten. Die frei verfügbaren Open-Weight-Modelle liegen inzwischen nur noch etwa ein halbes Jahr hinter kommerziellen Modellen zurück und sind damit für unseren Anwendungsfall bereits ausreichend leistungsfähig.
+##### Rechtsform
+e.V.
 
-Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+##### E-Mail-Adresse
+post@makerspace-gt.de
 
-##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
+##### Webseite
+http://makerspace-gt.de
 
-- Prototypischer Test von MANUEL auf einem älteren Computer (08/2026 bis 10/2026)
-- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026)
-- Anschaffung und Einrichtung des Mac Studio (11/2026)
-- Produktivbetrieb im Repair Café (ab 02/2027)
-- Prototypischer Test von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace (06/2027–08/2027)
-- Datenübermittlung an die Open Repair Alliance (ab 05/2027)
-- Veröffentlichung von MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen (09/2027)
-- Bericht von 1-Jahr-MANUEL auf dem Repair & Share Festival in Wuppertal (31.10.2027)
+#### Förderorganisation
+Deutsche Stiftung für Engagement und Ehrenamt
 
-##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
+##### Beschreibung der Organisation
 
-Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg anhand vorhandener und neuer Kennzahlen messen.
+Der Makerspace Gütersloh betreibt eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unter dem Motto "Mach doch was Du willst!" animieren wir unsere Mitglieder und interessierte Personen dazu sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Unserer Engagierten haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten, die sie allein nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung nutzen. Dabei betrachten wir uns als Sharing Community in der wir in unserer ländlichen Region einer großen Zahl Menschen Zugang zu Maschinen, Digitalequipment und gemeinsamen Wissen ermöglichen. Bei uns sind alle willkommen ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst Hand angelegt werden soweit dies möglich ist.
 
-- Erfolgsquote der Reparaturen im Repair Café
-- Anzahl neuer Engagierter, die eigenständig Anfragen bearbeiten
-- Anzahl der Reparaturen, die Gäste anhand einer MANUEL-Anleitung weitestgehend allein durchgeführt haben
-- Feedback zu den KI-Vorschlägen über die in Zammad integrierte Feedback-Funktion
-- Anzahl der an die Open Repair Alliance gemeldeten Reparaturen
-- Direkte Befragungen der Engagierten und Gäste beim Repair Café
-- Qualitatives Feedback aus dem Austausch mit anderen Reparaturinitiativen, etwa beim Netzwerktreffen im September oder bei der Reparaturpause des Netzwerks Reparatur-Initiativen
+Aktuell haben wir verschiedene Arbeitsbereiche für 3D-Druck, Elektronik, Holz, Textil, Audio/Video und Digitales. Besonders stolz sind wir dabei auf unseren Lasercutter, die selbstgebaute CNC Fräse, unsere Stickmaschine, das Siebdruckset und die Holzwerkstatt im Allgemeinen. Neben der Werkstatt haben wir noch einen weiteren Bereich mit Sofa und Beamer, um Vorträge zu halten oder sich gemütlich zu treffen. Einmal im Monat veranstalten wir ein Repair Café in der Stadtbibliothek Gütersloh.
+Mehr anzeigen
 
-Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage und Stunden der Werkstattnutzung, der geposteten Projekte im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
+#### 1. Ansprechpartner/in
+Michael Prange (1. Ansprechpartner)
 
-##### 5. Warum sollten wir Dich fördern? Wie passt Dein Projekt mit der DATEV-Stiftung Zukunft zusammen?
+##### 2. Ansprechpartner/in
+Keinen Ansprechpartner/in ausgewählt
 
-MANUEL setzt die genossenschaftliche Idee der DATEV-Stiftung Zukunft um, dass Fortschritt entsteht, wenn Menschen ihr Wissen teilen und gemeinsam Lösungen entwickeln. Das ist auch unser eigener Antrieb als offene Werkstatt. Mit MANUEL übertragen wir dieses Prinzip auf den Einsatz von KI und finden uns damit in allen drei Förderbereichen der Stiftung wieder. Weil wir MANUEL lokal statt in der Cloud betreiben, bleiben alle Anfragedaten bei uns und stärken so die digitale Souveränität und Selbstbestimmung im digitalen Raum, die der Bereich IT-Sicherheit und Datenschutz beschreibt. MANUEL vermittelt digitale Kompetenzen und den verantwortungsvollen Umgang mit künstlicher Intelligenz an Engagierte mit wenig oder ohne Vorkenntnisse und bereitet sie so auf die digitale Berufs- und Arbeitswelt vor. Über die Vorstellung beim Netzwerk Reparatur-Initiativen der anstiftung sowie die geplante Veröffentlichung als Modellprojekt tragen wir außerdem zum Wissens- und Ideentransfer zwischen Ehrenamtsstrukturen bei, was digitale Vernetzung und Zusammenarbeit über unseren eigenen Verein hinaus ist.
+### 2.2 Bitte geben Sie die zeichnungsberechtigte Person an:
 
-MANUEL ist dabei ausdrücklich keine interne Digitalisierungsmaßnahme unseres Vereins, sondern liefert auch unseren Gästen eigenständig verständliche Reparaturanleitungen und wirkt so direkt in die Bürgerschaft hinein. Über die monatlichen Repair Cafés, unsere Gäste und das überregionale Netzwerk erreichen wir mit wenig ehrenamtlicher Kapazität deutlich mehr Menschen, als unsere Mitgliederzahl vermuten lässt. Jeder Euro Förderung wirkt damit weit über unseren eigenen Verein hinaus. Als offen dokumentiertes Modellprojekt veröffentlichen wir zudem Hardware-Konfiguration, Ollama-Setup, Prompts und Zammad-Anbindung, damit andere Reparaturinitiativen MANUEL direkt nachnutzen können. Dass dieser Ansatz über Gütersloh hinaus Anklang findet, merken wir bereits jetzt. Über unsere öffentliche Präsenz in Forum und GitHub wurden wir schon mehrfach von anderen Initiativen aus Deutschland angeschrieben und um Rat und Erfahrungswerte gebeten.
+| Name           | Funktion | Berechtigung                       |
+| -------------- | -------- | ---------------------------------- |
+| Michael Prange | Vorstand | Gemeinsame Vertretungsberechtigung |
+| Tim Lakämper   | Vorstand | Gemeinsame Vertretungsberechtigung |
 
-Wir leben das Motto »Tue Gutes und rede darüber«. Transparenz ist uns wichtig, deshalb listen wir öffentlich auf, wer uns unterstützt, und legen offen, wie wir unsere IT-Infrastruktur betreiben. Diese Förderung würde dort ebenso sichtbar gemacht. Deshalb freuen wir uns sehr, dass auch die DATEV-Stiftung Zukunft im Falle einer Förderung öffentlich über MANUEL informieren wird.
+### 2.3 Bitte geben Sie die Bankverbindung an.
 
-##### Projektzeitraum (MM/JJJJ-MM/JJJJ)
+| Kontoinhaber              | IBAN                        |
+| ------------------------- | --------------------------- |
+| Makerspace Gütersloh e.V. | DE52 4786 0125 1226 2315 00 |
 
-08/2026-10/2027
+### 2.4 Wie viele hauptamtliche Mitarbeiter:innen (Vollzeitäquivalente) werden in Ihrer Organisation für ihre Tätigkeit bezahlt?
 
-### Finanzbedarf
+- [x] Rein ehrenamtlich getragen
+- [ ] 1 hauptamtliche Person
+- [ ] 2 bis 9 Hauptamtliche
+- [ ] 10 oder mehr Hauptamtliche
 
-In welchem finanziellen Rahmen bewegt sich Dein Förderantrag?
+### 2.5 Wie viele Personen engagieren sich ehrenamtlich in Ihrer Organisation?
 
-#### Benötigte Fördersumme
+45 Personen
 
-2.759,00 €
+## 3 Erfassung der Ausgaben und des Eigenanteils
 
-#### Finanzierungsbedarf
+### 3.1 Sachausgaben und Honorare
 
-2.759,00 €
+|       | Ausgabenart                                      | Bezeichnung      |         Betrag |
+| :---: | ------------------------------------------------ | ---------------- | -------------: |
+|   1   | Anschaffungen (z.B. Materialien, Lernmittel, IT) | Mac Mini M6 32GB |     1.489,00 € |
+|       |                                                  |                  | **1.489,00 €** |
 
-#### Ist eine Teilfinanzierung möglich?
+### 3.2 Fiktive Ausgaben, falls zutreffend: Wenn Sie Ihren Eigenanteil durch ehrenamtliche Arbeitsstunden einbringen möchten, geben Sie diese hier als fiktive Ausgaben an.
 
-- [x] Ja
-- [ ] Nein
+| Beschreibung der ehrenamtlichen Eigenleistung | Anzahl der Stunden |  Betrag in € |
+| --------------------------------------------- | ------------------ | -----------: |
+| Einrichtung und Dokumentation                 | 10                 |     150,00 € |
+|                                               |                    | **150,00 €** |
 
-#### Wofür sollen die beantragten Fördermittel im Projekt konkret verwendet werden?
+### 3.3 Eigenanteil
 
-(Gehe dabei insbesondere (wenn vorhanden) auf die folgenden Kostenarten ein und nenne die veranschlagte Höhe pro Kostenart: Personalkosten, Honorarkosten, Materialkosten, Öffentlichkeitsarbeit, Reisekosten, Verwaltungskosten, Veranstaltungskosten)
+| Art des Eigenanteils |  Betrag |
+| -------------------- | ------: |
+| Eigenmittel          | 13,90 € |
 
-Mac Studio M4 Max, 14-Core CPU, 32‑Core GPU, 16-Core Neural Engine, 36GB Unified Memory, 512GB SSD (2.759,00 € Materialkosten)  
-https://www.apple.com/de-edu/shop/buy-mac/mac-studio/m4-max-chip-14-core-cpu-32%E2%80%91core-gpu-36-gb-arbeitsspeicher-512gb-speicher
+## 4 Ausgaben- und Finanzierungsplan
 
-#### Welche Organisationen/Stiftungen/Großspender unterstützen Dein Vorhaben/Deine Organisation zusätzlich?
+|       | Ausgaben                                                           |                |
+| ----- | ------------------------------------------------------------------ | -------------: |
+| 4.1   | Sachausgaben und Honorare                                          |     1.489,00 € |
+| 4.1.1 | Anschaffungen (z.B. Materialien, Lernmittel, IT): Mac Mini M6 32GB |     1.489,00 € |
+| 4.2   | Einzubringende ehrenamtliche Eigenleistung (15 €/Stunde)           |       150,00 € |
+| 4.2.1 | Ehrenamtlich zu leistende Stunden (à 15 €): 10                     |       150,00 € |
+|       | **Gesamtausgaben**                                                 | **1.639,00 €** |
 
-Für dieses Projekt gibt es keine zusätzliche Unterstützung. Sollte nur eine Teilfinanzierung möglich sein, wird die Differenz aus eigenen Mitteln gedeckt.
+|       | Finanzierung                               |                |
+| ----- | ------------------------------------------ | -------------: |
+| 4.3   | Eigenanteil                                |        13,90 € |
+| 4.3.1 | Eigenmittel                                |        13,90 € |
+| 4.4   | Ehrenamtliche Eigenleistungen              |       150,00 € |
+|       | Einzubringende ehrenamtliche Eigenleistung |       150,00 € |
+| 4.5   | Zuwendung der DSEE als Festbetrag          |     1.475,10 € |
+|       | **Gesamtfinanzierung**                     | **1.639,00 €** |
 
-In der Vergangenheit wurde unser Repair Café durch das Landesprogramm Engagement NRW und das Programm »Reparieren statt wegwerfen« vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) finanziell gefördert. Weiterhin haben wir Sachspenden von PeakTech, Weller und Moccamaster erhalten.
+|     | Gesamtzuwendung                   |                |
+| --- | --------------------------------- | -------------: |
+| 4.6 | Zuwendung der DSEE als Festbetrag |     1.475,10 € |
+|     | **Gesamtzuwendung**               | **1.475,10 €** |
 
-### Überprüfung
+## 5 Beschreibung des Vorhabens
 
-Fast geschafft. Bitte prüfe abschließend, ob Deine Angaben korrekt und vollständig sind.
+### 5.1 Was möchten Sie in Ihrem Projekt konkret machen?
 
-Bitte prüfe vor absenden des Formulars Deine Angaben. Um zu den einzelnen Abschnitten zu gelangen, nutze bitte nebenstehende Navigation.
+Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Sie konkret durchführen möchten. Gehen Sie dabei auch kurz darauf ein, warum die im Finanzierungsplan genannten Ausgaben dafür erforderlich sind.
 
-- [x] Ich versichere/wir versichern, dass die in diesem Antrag (einschließlich Anlagen) gemachten Angaben vollständig und richtig sind.
+### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
-### Datum
+Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möchten Sie damit aufgreifen?
 
-24.07.2026
+Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war? 
 
-### Ort
+Welche langfristige Wirkung erwarten Sie von Ihrem Projekt (z.B. professionellere Vereinsstrukturen, neue Mitglieder, stärkere Identifikation mit der Organisation o.ä.)?
 
-Gütersloh
+### 5.3 In welcher Form sind Ehrenamtliche in das Projekt eingebunden?
 
-### Wie bist Du auf die DATEV-Stiftung Zukunft aufmerksam geworden?
-Förderdatenbank der DSEE (https://foerderdatenbank.d-s-e-e.de/foerderprogramme/foerderung-der-datev-stiftung)
+Bitte beschreiben Sie, ob und wie Engagierte in das beantragte Projekt eingebunden werden sollen.
+
+### 5.4 Wie viele Engagierte können Sie mit Ihrem Projekt erreichen?
+
+- [x] Bis 50
+- [ ] 51 bis 100
+- [ ] 101 bis 250
+- [ ] Mehr als 250
+
+### 5.5 An welche Personengruppen richtet sich Ihr Projekt?
+
+- [ ] Junge Menschen
+- [ ] Erwachsene
+- [ ] Ältere Menschen (65+)
+- [ ] Menschen mit Migrationsgeschichte
+- [ ] Menschen mit Behinderung
+- [ ] Bildungsbenachteiligte
+- [ ] Erwerbslose
+- [ ] Sonstige
+
+### 5.6 Richtet sich Ihr Projekt vorrangig an Personen, die sich bisher noch nicht engagieren?
+
+ - [x] Ja
+ - [ ] Nein
+
+### 5.7 In welchem Themenbereich engagiert sich Ihre Organisation hauptsächlich?
+
+- [ ] Außerschulische Jugend- oder Bildungsarbeit für Erwachsene
+- [ ] Berufliche Interessenvertretung außerhalb des Betriebs
+- [ ] Freizeit und Geselligkeit
+- [ ] Gesundheitsbereich
+- [ ] Justiz oder Kriminalitätsprobleme
+- [ ] Kirchlicher oder religiöser Bereich
+- [ ] Kultur und Musik
+- [ ] Politik und politische Interessenvertretung
+- [ ] Schule oder Kindergarten
+- [x] Sonstiger Bereich:Handwerk
+- [ ] Sozialer Bereich
+- [ ] Sport und Bewegung
+- [ ] Umwelt, Naturschutz oder Tierschutz
+- [ ] Unfall- oder Rettungsdienst oder freiwillige Feuerwehr
+
+## 6 Projektunterlagen
+
+### 6.1 Dokumente
+
+Sonstige Dokumente (0)
+
+| Dokumenttyp | Titel | Angefügt am | Status |
+| ----------- | ----- | ----------- | ------ |
+
+
+## 7 Erklärungen zum Einreichen
+
+### 7.1 Bitte bestätigen Sie die Erklärungen/Informationen zum Antrag
+
+Ich erkläre namens der Antragstellerin/des Antragstellers, dass
+
+- [x] mit dem beantragten Vorhaben noch nicht begonnen wurde; ich beantrage hiermit gleichzeitig einen vorzeitigen Maßnahmenbeginn zum schnellstmöglichen Zeitpunkt.
+- [x] die gemachten Angaben vollständig und richtig sind und ich sie durch entsprechende Unterlagen belegen kann; die Bestimmungen des Förderaufrufs sind mir bekannt und ich erkläre mich mit ihnen einverstanden.
+- [x] keine weiteren Mittel als im Finanzierungsplan angegeben beantragt wurden, die im Finanzierungsplan angegebenen Eigenmittel verbindlich zur Verfügung stehen und ich der DSEE alle Änderungen, die Auswirkungen auf das Vorhaben oder den Finanzierungsplan haben können, umgehend mitteilen werde
+- [x] eine ordnungsgemäße Geschäftsführung gewährleistet ist, die eine eindeutige Zuordnung aller projektbezogenen Einnahmen und Ausgaben sicherstellt und eine jederzeitige Prüfung des Bundesrechnungshofs und der DSEE ermöglicht.
+- [x] wir im Falle einer überwiegenden Finanzierung unserer Einrichtung aus öffentlichen Mitteln keinen unserer Beschäftigten besserstellen als vergleichbare Beschäftigte des öffentlichen Dienstes (Besserstellungsverbot).
+- [x] ich mit der Nutzung der von der DSEE bereitgestellten digitalen Verfahren und insbesondere der Bekanntgabe elektronischer Verwaltungsakte im Förderportal der DSEE einverstanden bin; die Bestimmungen zur Verarbeitung und zum Schutz meiner Daten sind mir bekannt.
+- [x] ich die Informationen zu subventionserheblichen Tatsachen zur Kenntnis genommen habe und mir darüber im Klaren bin, dass vorsätzlich oder leichtfertig gemachte unrichtige Angaben und die Fälschung von Belegen strafrechtliche Konsequenzen haben können.
+
+### 7.2 Ich erkläre namens der Antragstellerin/des Antragstellers, dass bislang kein weiterer Antrag der Antragstellerin/des Antragstellers auf Gewährung einer Förderung unter dem Förderprogramm „Ehrenamt gewinnen. Engagement binden. Zivilgesellschaft stärken.“ in diesem Kalenderjahr bewilligt worden ist. Weitere Anträge für dieses Kalenderjahr sind bislang
+
+- [x] nicht gestellt worden
+- [ ] gestellt, aber abgelehnt worden.
+- [ ] gestellt, noch nicht beschieden worden.
+
+### 7.3 Ich erkläre namens der Antragstellerin/des Antragstellers, dass die Antragstellerin/der Antragsteller zum Vorsteuerabzug, gemäß § 15 Umsatzsteuergesetz
+
+- [x] nicht berechtigt ist und dies im Finanzplan berücksichtigt wurde
+- [ ] berechtigt ist und dies im Finanzplan berücksichtigt wurde.

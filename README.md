@@ -62,8 +62,8 @@ Makerspace Gütersloh
 c/o WEBEREI
 
 #### Anschrift
-Bogenstraße1-8  
-33330Gütersloh
+Bogenstraße 1-8  
+33330 Gütersloh
 
 ##### Bundesland
 Nordrhein-Westfalen
@@ -169,11 +169,11 @@ Keinen Ansprechpartner/in ausgewählt
 
 Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Sie konkret durchführen möchten. Gehen Sie dabei auch kurz darauf ein, warum die im Finanzierungsplan genannten Ausgaben dafür erforderlich sind.
 
-Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokumentation im Repair Café. Ab der Version 7.0 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Dazu schaffen wir einen Mac Mini an, der aufgrund der Neural Engine Cores kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann. Als Laufzeitumgebung für das LLM kommt Ollama zum Einsatz. Mit 32GB Unified Memory können wir ausreichend große Modelle betreiben.
+Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokumentation im Repair Café. Ab der Version 7.0 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mac Mini angeschafft, der aufgrund der Neural Engine Cores kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann. Die 32 GB Unified Memory reichen für ausreichend große Modelle aus. Als Laufzeitumgebung für das LLM kommt Ollama zum Einsatz. 
 
-Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Hintergründe. Zum einen bleiben alle Anfragedaten bei uns und zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden.
+Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Gründe. Zum einen bleiben alle Anfragedaten bei uns und zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden.
 
-Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+Perspektivisch soll MANUEL im Makerspace als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
@@ -181,20 +181,20 @@ Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möc
 Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war?  
 Welche langfristige Wirkung erwarten Sie von Ihrem Projekt (z.B. professionellere Vereinsstrukturen, neue Mitglieder, stärkere Identifikation mit der Organisation o.ä.)?
 
-Wir veranstalten seit 2019 monatliche Repair Cafés und stellen immer wieder fest, dass es Gästen und neuen Engagierten schwerfällt, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden. 
+Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätigt zu werden. 
 
 Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.
 
 Der Erfolg des Projekts lässt sich an
 
 - der Reparaturquote,
-- der Anzahl an Reparaturen durch Gäste und neuen Engagierten,
+- der Anzahl der durch Gäste und neue Engagierte durchgeführten Reparaturen,
 - dem Feedback zu den KI-Vorschlägen und
 - der an die Open Repair Alliance gemeldeten Reparaturen
 
 messen.
 
-Perspektivisch soll MANUEL in weiteren Bereichen des Vereins eingesetzt werden und als Chatbot Auskunft über die Fragen wie »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit erleichtern wir den Einstieg in das Engagement und stärken wir den gesellschaftlichen Zusammenhalt.
+Perspektivisch soll MANUEL in weiteren Bereichen des Vereins eingesetzt werden. Als Chatbot soll sie Auskunft über Fragen wie »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit erleichtern wir den Einstieg in das Engagement und stärken den gesellschaftlichen Zusammenhalt.
 
 ### 5.3 In welcher Form sind Ehrenamtliche in das Projekt eingebunden?
 
@@ -243,7 +243,7 @@ Neue Engagierte und Gäste der monatlichen Repair Cafés mit wenigen Vorkenntnis
 - [ ] Kultur und Musik
 - [ ] Politik und politische Interessenvertretung
 - [ ] Schule oder Kindergarten
-- [x] Sonstiger Bereich:Handwerk
+- [x] Sonstiger Bereich: Handwerk
 - [ ] Sozialer Bereich
 - [ ] Sport und Bewegung
 - [ ] Umwelt, Naturschutz oder Tierschutz

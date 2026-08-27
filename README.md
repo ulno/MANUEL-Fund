@@ -171,11 +171,24 @@ Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Si
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
-Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möchten Sie damit aufgreifen?
-
-Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war? 
-
+Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möchten Sie damit aufgreifen?  
+Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war?  
 Welche langfristige Wirkung erwarten Sie von Ihrem Projekt (z.B. professionellere Vereinsstrukturen, neue Mitglieder, stärkere Identifikation mit der Organisation o.ä.)?
+
+Wir veranstalten seit 2019 monatliche Repair Cafés und stellen immer wieder fest, dass es Gästen und neuen Engagierten schwerfällt, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden. 
+
+Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.
+
+Der Erfolg des Projekts lässt sich an
+
+- der Reparaturquote,
+- der Anzahl an Reparaturen durch Gäste und neuen Engagierten,
+- dem Feedback zu den KI-Vorschlägen und
+- der an die Open Repair Alliance gemeldeten Reparaturen
+
+messen.
+
+Perspektivisch soll MANUEL in weiteren Bereichen des Vereins eingesetzt werden und als Chatbot Auskunft über die Fragen wie »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit erleichtern wir den Einstieg in das Engagement und stärken wir den gesellschaftlichen Zusammenhalt.
 
 ### 5.3 In welcher Form sind Ehrenamtliche in das Projekt eingebunden?
 

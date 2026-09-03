@@ -169,11 +169,8 @@ Keinen Ansprechpartner/in ausgewählt
 
 Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Sie konkret durchführen möchten. Gehen Sie dabei auch kurz darauf ein, warum die im Finanzierungsplan genannten Ausgaben dafür erforderlich sind.
 
-Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokumentation im Repair Café. Ab der Version 7.0 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mac Mini angeschafft, der aufgrund der Neural Engine Cores kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann. Die 32 GB Unified Memory reichen für ausreichend große Modelle aus. Als Laufzeitumgebung für das LLM kommt Ollama zum Einsatz. 
-
-Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Gründe. Zum einen bleiben alle Anfragedaten bei uns und zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden.
-
-Perspektivisch soll MANUEL im Makerspace als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokumentation im Repair Café. Ab der Version 7.0 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mac Mini angeschafft, der aufgrund seiner Neural Engine Cores und des gemeinsamen Arbeitsspeichers (Unified Memory) kostengünstig Sprachmodelle (LLMs) lokal und datenschutzfreundlich betreiben kann. Als Laufzeitumgebung für die KI-Modelle werden wir auf bewährte, nutzerfreundliche Open-Source-Lösungen (wie z. B. Ollama oder LM Studio) setzen.
+Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat wesentliche Gründe: Alle Anfragedaten bleiben bei uns (Datenschutz), wir sind unabhängig von steigenden Kosten kommerzieller Cloud-Angebote und wir können das System exakt auf unsere Vereinsbedürfnisse zuschneiden. Perspektivisch soll MANUEL im Makerspace als intelligenter Chatbot eingesetzt werden, um Personen gezielt zueinander zu vermitteln und Fragen zu Werkzeugen zu beantworten. Dafür werden wir verschiedene moderne Open-Source-KI-Agenten prototypisch evaluieren.
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
@@ -196,6 +193,8 @@ messen.
 
 Perspektivisch soll MANUEL in weiteren Bereichen des Vereins eingesetzt werden. Als Chatbot soll sie Auskunft über Fragen wie »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit erleichtern wir den Einstieg in das Engagement und stärken den gesellschaftlichen Zusammenhalt.
 
+Durch den Betrieb einer lokalen, leistungsstarken KI-Hardware im Makerspace leisten wir einen Beitrag zur digitalen Teilhabe. Im Sinne unseres "Sharing"-Gedankens bieten wir auch jenen Mitgliedern und Engagierten Zugang zu moderner KI-Technologie, die sich entsprechende Hardware privat nicht leisten können. Damit erleichtern wir den Einstieg in das Engagement und stärken den gesellschaftlichen Zusammenhalt.
+
 ### 5.3 In welcher Form sind Ehrenamtliche in das Projekt eingebunden?
 
 Bitte beschreiben Sie, ob und wie Engagierte in das beantragte Projekt eingebunden werden sollen.
@@ -203,7 +202,7 @@ Bitte beschreiben Sie, ob und wie Engagierte in das beantragte Projekt eingebund
 Vor Beginn des Projekts gibt es bereits die Möglichkeit, sich mit anderen Engagierten aus der Community beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der „anstiftung“ auszutauschen.
 Sobald das Projekt gestartet ist, übernehmen die Engagierten die Einrichtung von Ollama auf dem Mac Mini sowie die Anbindung an Zammad. Anschließend testen sie bei Repair Cafés verschiedene LLMs mit unterschiedlichen Prompts und geben über die Feedback-Funktion in Zammad Rückmeldung zu den Vorschlägen. Wenn dies erfolgreich abgeschlossen ist, wird die Datenübermittlung an die Open Repair Alliance eingerichtet.
 Am Ende des Projekts veröffentlichen sie MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen. 
-Als Anschlussprojekt testen sie den prototypischen Einsatz von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace.
+Als Anschlussprojekt testen die Engagierten den prototypischen Einsatz von intelligenten KI-Agenten und Assistenzsystemen zur Evaluierung für den perspektivischen Einsatz im Makerspace (z.B. für automatisierte Wissensvermittlung und Vernetzung der Mitglieder).
 
 ### 5.4 Wie viele Engagierte können Sie mit Ihrem Projekt erreichen?
 

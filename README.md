@@ -181,7 +181,7 @@ Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möc
 Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war?  
 Welche langfristige Wirkung erwarten Sie von Ihrem Projekt (z.B. professionellere Vereinsstrukturen, neue Mitglieder, stärkere Identifikation mit der Organisation o.ä.)?
 
-Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätigt zu werden. 
+Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätig zu werden. 
 
 Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.
 
@@ -200,7 +200,7 @@ Perspektivisch soll MANUEL in weiteren Bereichen des Vereins eingesetzt werden. 
 
 Bitte beschreiben Sie, ob und wie Engagierte in das beantragte Projekt eingebunden werden sollen.
 
-Vor Beginn des Projekts gibt es bereits die Möglichkeit, sich mit anderen Engagierten aus der Community beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der anstiftung auszutauschen.
+Vor Beginn des Projekts gibt es bereits die Möglichkeit, sich mit anderen Engagierten aus der Community beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der „anstiftung“ auszutauschen.
 Sobald das Projekt gestartet ist, übernehmen die Engagierten die Einrichtung von Ollama auf dem Mac Mini sowie die Anbindung an Zammad. Anschließend testen sie bei Repair Cafés verschiedene LLMs mit unterschiedlichen Prompts und geben über die Feedback-Funktion in Zammad Rückmeldung zu den Vorschlägen. Wenn dies erfolgreich abgeschlossen ist, wird die Datenübermittlung an die Open Repair Alliance eingerichtet.
 Am Ende des Projekts veröffentlichen sie MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen. 
 Als Anschlussprojekt testen sie den prototypischen Einsatz von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace.
